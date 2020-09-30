@@ -1,0 +1,4 @@
+* Cheers
+Software used:
+  - Hugo website generator
+  - Austin Gebauer's [[https://github.com/austingebauer/devise][Devise theme]]
