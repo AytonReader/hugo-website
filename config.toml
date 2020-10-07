@@ -1,3 +1,38 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://AytonReader.github.io"
+languageCode = "en-au"
+title = "Paul's Personal Zibaldone"
+theme = "devise"
+relativeURLs = true
+enableEnoji = true
+googleAnalytics = ""
+enableRobotsTXT = true
+copyright = "Running from 2020-09-30"
+
+# Main menu items
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = -110
+  [[menu.main]]
+    identifier = "about"
+    name = "About me"
+    url = "/about/"
+    weight = -90
+  [[menu.main]]
+   identifier = "blog"
+   name = "My Zibaldone"
+   url = "/posts/"
+   weight = -100
+
+[params]
+  description = "Let's help your business to catch up to the competition. Self-employed IT consultant, Melbourne contractor."
+  header_title = "Paul Tomoiaga"
+  header_subtitle = "Jack of all trades"
+  home_image = "/images/very_cool.jpg"
+  recent_posts = 5
+  mainSections = ["posts", "post", "blog"] # Sections to include in recent posts. Needs cleanup lol
+  [params.style]
+    backgroundColor = '#f2f2f2'
+    fontColor = '#000000'
