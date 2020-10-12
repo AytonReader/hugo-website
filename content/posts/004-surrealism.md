@@ -6,7 +6,7 @@ description = "Classical surrealism art, texts and surrealism in video games"
 categories = [
   "art",
 ]
-draft = "false"
+draft = "no"
 +++
 
 *Unfortunately, I don't have any images to share in this blog post. Art and copyright can be so edgy at times, so for now this post remains just text.
@@ -22,9 +22,9 @@ My favourite example of this "disguised surrealism" is in Miyamoto's Super Mario
 I am still discovering this genre of art, music and writing. Please feel free to continue this discussion with me over [email](/about/).
 
 # A list of surreal artists I like
+  - Marc Schattner (Aussie)
   - Carlo Salomoni
   - Vladimir Kush
   - Salvador Dali
   - Igorrr (Musician)
-
 

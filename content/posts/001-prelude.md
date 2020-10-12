@@ -1,12 +1,12 @@
 +++
 author = "Paul Tomoiaga"
 title = "The beginning of something great"
-date = "1970-01-01"
+date = "2020-09-30"
 description = "This marks the first post on my blog"
 categories = [
      "misc",
 ]
-draft = "yes"
+draft = "no"
 +++
 
 # Zibaldone
