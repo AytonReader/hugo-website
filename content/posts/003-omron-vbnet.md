@@ -6,7 +6,7 @@ description = "Worked to improve the functionality and user-experience of a boot
 categories = [
     "professional",
 ]
-draft = "false"
+draft = false
 +++
 
 > With Omron, I worked to design an application which would allow the average person to set up a Linux machine with ease.

@@ -6,7 +6,7 @@ description = "Classical surrealism art, texts and surrealism in video games"
 categories = [
   "art",
 ]
-draft = "no"
+draft = false
 +++
 
 *Unfortunately, I don't have any images to share in this blog post. Art and copyright can be so edgy at times, so for now this post remains just text.

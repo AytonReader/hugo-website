@@ -6,7 +6,7 @@ description = "I built a fuzzy logic library using structure text language."
 categories = [
     "professional",
 ]
-draft = "false"
+draft = false
 +++
 
 > While at Omron I worked to develop a fuzzy logic framework for Omron PLCs using Structure Text language.

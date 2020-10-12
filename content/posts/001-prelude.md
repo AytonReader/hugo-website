@@ -6,7 +6,7 @@ description = "This marks the first post on my blog"
 categories = [
      "misc",
 ]
-draft = "no"
+draft = false
 +++
 
 # Zibaldone

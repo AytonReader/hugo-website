@@ -5,5 +5,5 @@ date = ""
 description = ""
 categories = [
 ]
-draft = "true"
+draft = true
 +++
