@@ -4,7 +4,7 @@ draft: false
 
 ### Email me
 
-* paul@tomopaul.com
+* info@tomopaul.com
 
 Feel free to email me about anything, but please be clear if you're just being friendly or looking for business. 
 
