@@ -6,7 +6,7 @@ description = "Today I found out the hyperlinks on my website are broken. They a
 categories = [
 	"technology",
 ]
-draft = true
+draft = false
 +++
 
 # Context
